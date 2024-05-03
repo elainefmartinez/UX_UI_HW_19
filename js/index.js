@@ -1,5 +1,8 @@
-$('.button').on("click", function(){
-    $('.cssChange').css('background-color','white');
-    console.log('testing');
+$('.button').hover(function(){
+    $(this).toggleClass('activeButton');
+    console.log('IT WORKED');
+})
+  
+ 
 
-});
+
