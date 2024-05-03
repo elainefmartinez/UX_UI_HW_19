@@ -22,6 +22,7 @@ header{
 
 
 a:link {
+    color: #ff6c4a;
     background-color: transparent;
     text-decoration: none;
   }
@@ -33,8 +34,8 @@ a:link {
   }
 
   a:hover{
-    text-decoration: underline;
-    
+    color: #ff6c4a;
+    text-decoration: underline;  
   }
 
 
